@@ -197,6 +197,29 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #323232;
+    background-color: #c45907;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+
+  .button:hover {background-color: #c45907}
+
+  .button:active {
+    background-color: #c56014;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
