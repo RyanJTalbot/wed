@@ -141,7 +141,9 @@ table {
     transform: translateY(4px);
   }
 
-
+  .main_text {
+    opacity: 0.9;
+  }
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
       Adapted from:
