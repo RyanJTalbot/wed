@@ -956,7 +956,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #fff;
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -967,6 +967,7 @@ footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
 footer .copyright {
+    color:rgba(255, 255, 255, .9)
     margin: 0;
     padding: 0;
  }
