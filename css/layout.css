@@ -637,7 +637,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #call-to-action h2 {
    font: 28px/36px 'opensans-bold', sans-serif;
-   color: #EBEEEE;
+   color: #2e2e2e;
    margin-bottom: 6px;
 }
 #call-to-action h2 a {
@@ -668,13 +668,13 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/tra.jpeg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
 
    position: relative;
-   min-height: 200px;
+   min-height: 300px;
    width: 100%;
    overflow: hidden;
 }
@@ -686,7 +686,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #fff;
+   color: #1F1F1F;
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
@@ -698,7 +698,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: #2e2e2e;
 }
 
 /*	Blockquotes */
@@ -714,14 +714,14 @@ call-to-action .button {
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: #fff
+   color: #2e2e2e
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: #fff;
+   color: #2e2e2e;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
@@ -792,7 +792,7 @@ call-to-action .button {
     width: 12px;
     height: 12px;
     display: block;
-    background: #ddd;
+    background: #2e2e2e;
     background: rgba(255, 255, 255, .3);
     cursor: pointer;
     text-indent: -9999px;
@@ -831,11 +831,11 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #EBEEEE;
+   color: #1f1f1f;
    margin-bottom: 6px;
 }
 #contact h1 span { display: none; }
-#contact h1:before {
+/* #contact h1:before {
    font-family: 'FontAwesome';
    content: "\f0e0";
 	padding-right: 10px;
@@ -843,12 +843,12 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #ebeeee;
-}
+   color: #2e2e2e;
+} */
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
-   color: #EBEEEE;
+   color: #2e2e2e;
    margin-bottom: 6px;
 }
 #contact p.lead {
@@ -863,7 +863,7 @@ call-to-action .button {
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
-   color: #EBEEEE;
+   color: #2e2e2e;
 	display: inline-block;
 	float: left;
    width: 26%;
